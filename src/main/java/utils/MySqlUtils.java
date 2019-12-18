@@ -7,7 +7,7 @@ import java.sql.*;
 public class MySqlUtils
 {
 
-    //访问网址为49.235.73.29的数据库testsql
+    //访问的数据库testsql
     private static String url = "";
     //数据库的用户名
     private static String user = "";
