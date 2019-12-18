@@ -8,11 +8,11 @@ public class MySqlUtils
 {
 
     //访问网址为49.235.73.29的数据库testsql
-    private static String url = "jdbc:mysql://49.235.73.29:3306/testdb?serverTimezone=UTC";
+    private static String url = "";
     //数据库的用户名
-    private static String user = "root";
+    private static String user = "";
     //数据库的密码
-    private static String password = "skplroot";
+    private static String password = "";
     //数据库连接
     private static Connection conn;
     //语句
