@@ -3,8 +3,10 @@
 <br>
 项目计划springboot+springMVC+mybatis改为一般的servlet+JDBC操作
 
+说明：这部分是web端的，具体的小程序端代码请follow里面找ZhizhenLiu查看
+
 由于涉及数据库安全，上传时数据库的url和user以及password都进行了删除
-代码仅供参考学习，作为第一次用struts2和JSP的一点回忆
+代码仅供参考学习，上传的代码以及页面不代表最终的成果，而是本人就个人喜爱而修改的，作为第一次用struts2和JSP的一点经验总结
 
 ### 变动日志
     12/15: 
